@@ -9,7 +9,7 @@
 2) Tải script và chạy (1 lệnh)
 
 ```bash
-curl -sSL https://gist.githubusercontent.com/ngoctan94/3ee3389f7542f875666a5d1d809cd0d4/raw/e100a88709bf26aa36588d0c537162cd619cfcf9/install_n8n.sh \
+curl -sSL [https://gist.githubusercontent.com/ngoctan94/3ee3389f7542f875666a5d1d809cd0d4/raw/e100a88709bf26aa36588d0c537162cd619cfcf9/install_n8n.sh](https://raw.githubusercontent.com/nguyentan510/N8N-Install/refs/heads/main/n8n-install.sh) \
   > install_n8n.sh && chmod +x install_n8n.sh && sudo ./install_n8n.sh
 ```
 
